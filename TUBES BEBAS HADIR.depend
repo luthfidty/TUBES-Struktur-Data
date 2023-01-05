@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672822393 source:d:\struktur data\fix jadi gelo\tubes bebas hadir\main.cpp
+	"ADT.h"
+
+1672822370 source:d:\struktur data\fix jadi gelo\tubes bebas hadir\primitive.cpp
+	"ADT.h"
+
+1672664047 d:\struktur data\fix jadi gelo\tubes bebas hadir\adt.h
+	<iostream>
+	<math.h>
+
